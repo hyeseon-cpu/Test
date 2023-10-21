@@ -14,6 +14,9 @@ Muti-Class Object Detection is performed and the number of classes is 4.
 3. class_id.csv - 객체별 제출 id정보
 
 <div align="center">
+
+
+
   
 | class : 객체이름| class_id : 객체 id|
 | --------------- |----------:| 
@@ -21,6 +24,10 @@ Muti-Class Object Detection is performed and the number of classes is 4.
 | 02_mass       |2| 
 | 04_lymph      |3|
 | 05_bleeding   |4|
+
+
+
+
 
 </div>
 
