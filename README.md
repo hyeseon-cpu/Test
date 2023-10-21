@@ -1,2 +1,2 @@
 # first
-![Alt text](/path/to/img.jpg)
+![Alt text](/path/to/06.png)
