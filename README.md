@@ -17,6 +17,7 @@ Muti-Class Object Detection is performed and the number of classes is 4.
 <p></p>
 <p></p>
 <p></p>
+
 <div align="center">
 
 | class : 객체이름| class_id : 객체 id|
@@ -27,6 +28,7 @@ Muti-Class Object Detection is performed and the number of classes is 4.
 | 05_bleeding   |4|
 
 </div>
+
 <p></p>
 <p></p>
 <p></p>
