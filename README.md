@@ -10,7 +10,7 @@ Muti-Class Object Detection is performed and the number of classes is 4.
 ## 01 Data set
 1. train - 62,622 training JSON files.
 2. test - 20,874 test JSON files.
-#### The image data is included in the JSON files in base64 format.
+#### *The image data is included in the JSON files in base64 format.
 
 3. class_id.csv -  ID information for submission by object type.
 
