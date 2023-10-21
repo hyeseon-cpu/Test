@@ -1,6 +1,18 @@
-# first
-## upload img
-### base64 방식으로 디코딩된 이미지이다.
+## 01 Data set
+1. Train - 62,622 JSON files for training
+2. Test - 20,874 JSON files for evaluation
+
+### The image data is included in the JSON files in base64 format.
+3. class_id.csv - Submission ID information for each object.
+
+|      Class: Object Name      |  Class ID: Object ID  |
+|:----------------------------:|:---------------------:|
+|          01_ulcer            |           1           |
+|          02_mass             |           2           |
+|          04_lymph            |           3           |
+|          05_bleeding         |           4           |
+
+### base64 The images are decoded from base64.
 <p align="center"><img src ="https://github.com/hyeseon-cpu/Test/assets/128684012/fb59966b-5385-4f98-8bb1-da4d2cf91230" width="600"></p>
 
 
