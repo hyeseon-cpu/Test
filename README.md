@@ -1,5 +1,4 @@
-[머지가머지](https://docs.google.com/presentation/d/1czDgY-yaeu8xQ2Nsb3zrnCk0k8tPcUC3Hf3JP6nbm-c/edit?usp=sharing)
-
+[Lesion detector results report](https://docs.google.com/presentation/d/1czDgY-yaeu8xQ2Nsb3zrnCk0k8tPcUC3Hf3JP6nbm-c/edit?usp=sharing)
 
 ## 01 Data set
 1. Train - 62,622 JSON files for training
