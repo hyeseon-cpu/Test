@@ -1,6 +1,6 @@
 # first
 ## upload img
-<p align="center"><img src ="https://github.com/hyeseon-cpu/first/assets/128684012/3350cb43-559a-49f8-bc8f-e43fdc124974" width="100"></p>
+<p align="center"><img src ="https://github.com/hyeseon-cpu/first/assets/128684012/3350cb43-559a-49f8-bc8f-e43fdc124974" width="500"></p>
 
 <!-- ![01](https://github.com/hyeseon-cpu/first/assets/128684012/3350cb43-559a-49f8-bc8f-e43fdc124974)
 ![02](https://github.com/hyeseon-cpu/first/assets/128684012/2fe428fb-bf7f-488c-ae30-02c9c3f3d712)
