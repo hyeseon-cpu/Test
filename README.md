@@ -5,12 +5,12 @@
 ### The image data is included in the JSON files in base64 format.
 3. class_id.csv - Submission ID information for each object.
 
-|      Class: Object Name      |  Class ID: Object ID  |
+<div align="center">|      Class: Object Name      |  Class ID: Object ID  |
 |:-----------------------------------------------:|:-----------------------------------------------:|
 |          01_ulcer            |           1           |
 |         02_mass              |           2           |
 |          04_lymph            |           3           |
-|          05_bleeding         |           4           |
+|          05_bleeding         |           4           |</div>
 
 ### base64 The images are decoded from base64.
 <p align="center"><img src ="https://github.com/hyeseon-cpu/Test/assets/128684012/fb59966b-5385-4f98-8bb1-da4d2cf91230" width="600"></p>
