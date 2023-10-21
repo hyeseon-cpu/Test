@@ -13,10 +13,7 @@ Muti-Class Object Detection is performed and the number of classes is 4.
 ### 이미지 데이터는 base64형식으로 json파일에 포함되어있다.
 3. class_id.csv - 객체별 제출 id정보
 
-
 <br></br>
-<br></br>
-
 <div align="center">
 
 | class : 객체이름| class_id : 객체 id|
@@ -27,40 +24,7 @@ Muti-Class Object Detection is performed and the number of classes is 4.
 | 05_bleeding   |4|
 
 </div>
-
 <br></br>
-<br></br>
-
-<table width="100px" height="100px">
-| 열 이름 | 너비 | 높이 |
-|—|—|—|
-| 열 1 | 100px | 100px |
-| 열 2 | 100px | 100px |
-| 열 3 | 100px | 100px |
-</table>
-
-<table style="width:300px; height:300px;">
-  <tr>
-    <th style="width:100px; height:100px;">열 이름</th>
-    <th style="width:100px; height:100px;">너비</th>
-    <th style="width:100px; height:100px;">높이</th>
-  </tr>
-  <tr>
-    <td style="width:100px; height:100px;">열 1</td>
-    <td style="width:100px; height:100px;">100px</td>
-    <td style="width:100px; height:100px;">100px</td>
-  </tr>
-  <tr>
-    <td style="width:100px; height:100px;">열 2</td>
-    <td style="width:100px; height:100px;">100px</td>
-    <td style="width:100px; height:100px;">100px</td>
-  </tr>
-  <tr>
-    <td style="width:100px; height:100px;">열 3</td>
-    <td style="width:100px; height:100px;">100px</td>
-    <td style="width:100px; height:100px;">100px</td>
-  </tr>
-</table>
 
 
 
