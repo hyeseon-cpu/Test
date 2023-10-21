@@ -11,7 +11,7 @@
 
 
 
-<p align="center"><img src ="[https://github.com/hyeseon-cpu/first/assets/128684012/90793b0e-ff38-481b-aa57-a082d731fe20](https://github.com/hyeseon-cpu/Test/assets/128684012/fb59966b-5385-4f98-8bb1-da4d2cf91230)" width="600"></p>
+<p align="center"><img src ="https://github.com/hyeseon-cpu/Test/assets/128684012/fb59966b-5385-4f98-8bb1-da4d2cf91230" width="600"></p>
 
 
 
