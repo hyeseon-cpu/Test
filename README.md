@@ -24,10 +24,6 @@ Muti-Class Object Detection is performed and the number of classes is 4.
 | 05_bleeding   |4|
 
 </div>
-<br></br>
-
-
-
 
 ### base64 방식으로 디코딩된 이미지이다.
 <p align="center"><img src ="https://github.com/hyeseon-cpu/Test/assets/128684012/fb59966b-5385-4f98-8bb1-da4d2cf91230" width="600"></p>
