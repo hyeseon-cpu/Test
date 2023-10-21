@@ -13,10 +13,10 @@ Muti-Class Object Detection is performed and the number of classes is 4.
 ### 이미지 데이터는 base64형식으로 json파일에 포함되어있다.
 3. class_id.csv - 객체별 제출 id정보
 
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
 <div align="center">
 
@@ -29,10 +29,11 @@ Muti-Class Object Detection is performed and the number of classes is 4.
 
 </div>
 
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
 
 
 
