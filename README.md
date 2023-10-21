@@ -16,13 +16,21 @@ Muti-Class Object Detection is performed and the number of classes is 4.
 
 
 <div align="center">
-  
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 | class : 객체이름| class_id : 객체 id|
 | --------------- |----------:| 
 | 01_ulcer      |1|
 | 02_mass       |2| 
 | 04_lymph      |3|
 | 05_bleeding   |4|
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
 
 </div>
 
