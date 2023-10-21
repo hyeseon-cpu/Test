@@ -6,12 +6,14 @@
 3. class_id.csv - Submission ID information for each object.
 
 <div align="center">
+
 |      Class: Object Name      |  Class ID: Object ID  |
 |:-----------------------------------------------:|:-----------------------------------------------:|
 |          01_ulcer            |           1           |
 |         02_mass              |           2           |
 |          04_lymph            |           3           |
 |          05_bleeding         |           4           | 
+
 </div>
 
 ### base64 The images are decoded from base64.
