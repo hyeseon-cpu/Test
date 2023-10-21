@@ -6,7 +6,7 @@ We develop a lesion detection model using meditation data of Capsule Endascopy (
 Muti-Class Object Detection is performed and the number of classes is 4.
 
 ## [[LesionDetector results report🤩_Google Slides]](https://docs.google.com/presentation/d/1czDgY-yaeu8xQ2Nsb3zrnCk0k8tPcUC3Hf3JP6nbm-c/edit?usp=sharing)
-## [[code → [selected_OVER]Mask_R-CNN 💻]](https://colab.research.google.com/drive/1NacaEqYT4dRmJHpzldGAAYg23jYPvsPF?usp=sharing)
+## [[code → [[selected_OVER]Mask_R-CNN 💻]](https://colab.research.google.com/drive/1NacaEqYT4dRmJHpzldGAAYg23jYPvsPF?usp=sharing)
 
 
 ## 01 Data set
