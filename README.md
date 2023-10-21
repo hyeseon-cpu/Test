@@ -1,6 +1,5 @@
 # Lesion detector
 Detection of lesions using endoscopic imaging data. We develop a lesion detection model using meditation data of Capsule Endascopy (capsule endoscope), which is used for minimally invasive surgery. Muti-Class Object Detection is performed and the number of classes is 4.
-
 ## [Lesion detector results report](https://docs.google.com/presentation/d/1czDgY-yaeu8xQ2Nsb3zrnCk0k8tPcUC3Hf3JP6nbm-c/edit?usp=sharing)
 
 ## 01 Data set
