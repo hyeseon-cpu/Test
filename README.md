@@ -7,3 +7,8 @@
 ![05](https://github.com/hyeseon-cpu/first/assets/128684012/237579c7-29ff-46b7-9f1e-0b4864830be4)
 ![06](https://github.com/hyeseon-cpu/first/assets/128684012/90793b0e-ff38-481b-aa57-a082d731fe20)
 
+|마크다운|테이블|
+
+|---|---|
+
+|셀|셀2|
