@@ -39,6 +39,28 @@ Muti-Class Object Detection is performed and the number of classes is 4.
 | 열 3 | 100px | 100px |
 </table>
 
+<table style="width:300px; height:300px;">
+  <tr>
+    <th style="width:100px; height:100px;">열 이름</th>
+    <th style="width:100px; height:100px;">너비</th>
+    <th style="width:100px; height:100px;">높이</th>
+  </tr>
+  <tr>
+    <td style="width:100px; height:100px;">열 1</td>
+    <td style="width:100px; height:100px;">100px</td>
+    <td style="width:100px; height:100px;">100px</td>
+  </tr>
+  <tr>
+    <td style="width:100px; height:100px;">열 2</td>
+    <td style="width:100px; height:100px;">100px</td>
+    <td style="width:100px; height:100px;">100px</td>
+  </tr>
+  <tr>
+    <td style="width:100px; height:100px;">열 3</td>
+    <td style="width:100px; height:100px;">100px</td>
+    <td style="width:100px; height:100px;">100px</td>
+  </tr>
+</table>
 
 
 
