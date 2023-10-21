@@ -16,7 +16,7 @@ Muti-Class Object Detection is performed and the number of classes is 4.
 
 3. class_id.csv -  ID information for submission by object type.
 
-<div align="center">
+<div align="center">a
   
 |Class (Object Name)| Class_ID (Object ID)|
 | --------------- |----------:| 
